@@ -1,3 +1,4 @@
+# tree with ruby 
 print "Masukkan tinggi pohon : "
 tinggi = gets.chomp.to_i
 akhir = tinggi
